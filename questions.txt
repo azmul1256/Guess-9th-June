@@ -1,0 +1,36 @@
+Display Size :;
+5.7-inch;
+6.1-inch;
+6.5-inch;
+6.4-inch;
+6.4-inch;
+|
+Resolution :;
+1080 x 1920 pixels;
+720 x 1280 pixels;
+720 x 1600 pixels;
+1080 x 2400 pixels;
+1080 x 2400 pixels;
+|
+RAM:;
+8GB;
+3GB;
+4GB;
+6GB;
+8GB;
+|
+ROM :;
+16GB;
+32GB;
+64GB;
+128GB;
+128GB;
+|
+Battery Capacity :;
+4,000 mAh;
+3,000 mAh;
+4,500 mAh;
+5,000 mAh;
+5,000 mAh;
+|
+
